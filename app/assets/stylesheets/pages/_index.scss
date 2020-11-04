@@ -1,0 +1,15 @@
+// Import page-specific CSS files here.
+@import "home";
+@import "show";
+
+h1 {
+  i {
+    font-size: 20px;
+  }
+}
+
+.card-image {
+  height: 180px;
+  background-position: cover;
+  background-size: cover;
+}
